@@ -1,4 +1,4 @@
-# Boxel-Rebound
+# Boxel-Rebound.   ![Icon](/www/img/icons/icon16.png)
 Play over 50 levels of box-jumping madness! Design and share your own levels. raw code for development and experimentation purposes. Email for removal.
 
 ## Usage
