@@ -1,0 +1,18 @@
+{
+   "action": {
+      "default_popup": "www/index.html",
+      "default_title": "Boxel Rebound"
+   },
+   "description": "Play over 50 levels of box-jumping madness! Design and share your own levels.",
+   "icons": {
+      "128": "www/img/icons/icon128.png",
+      "16": "www/img/icons/icon16.png",
+      "48": "www/img/icons/icon48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAhJz0PGH+zNA1OIG8CkhhP2S2xs1ZdyIK2eU6Chm/YysiL9QA7GeRMNf+J3q9LtkZ0EwB3q1IlwtKgV7pD8J22uplxtt/OrOloctWObg12KiWY9C23TbaUbWQLDQ543VJRb/PAV8Xddq6Qz57l1pa7pRi4zXlMZhojB5ikJpMpyai7hEvIpw8ipw+8/zomS1k8DJPxHGaYOUwvUfQq/fZxL+eP7Z+E/Cwvpy2caT9EzLNScShIEbZ0kxy9k9yr1wIKzc+1vFzGiBqB4A2aXPrrCOyEoZlcpUtZnY/o5g5Vqzq9b6tzHp0wMmVdfVZG9/px+HG0zMbLTMbjMPsmBhVOQIDAQAB",
+   "manifest_version": 3,
+   "name": "Boxel Rebound",
+   "permissions": [ "storage" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.8.0.1"
+}
